@@ -1,10 +1,10 @@
 Название Файла  Содержание файла 
 
-main.ру
-instruction.ру
-ruffier.ру
-scrollLabel.ру
-coloredLayout.ру
-seconds.ру
-sits.ру
-runner.ру
+main.ру Файл с тектовыми инструкциями 
+instruction.ру Вычесления индекса Руфье и рекомендации
+ruffier.ру Класс для создания надписи с полосой прокрутки 
+scrollLabel.ру 
+coloredLayout.ру Класс для создания цветного макета 
+seconds.ру Счетчик секунд 
+sits.ру Счетчик приседаний 
+runner.ру Счетчик "бегунок"
